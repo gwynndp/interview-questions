@@ -203,15 +203,15 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 #### Testing Questions:
 
 1. What are some advantages/disadvantages to testing your code?
-1. What tools would you use to test your code's functionality?
-1. What is the difference between a unit test and a functional/integration test?
-1. What is the purpose of a code style linting tool?
+2. What tools would you use to test your code's functionality?
+3. What is the difference between a unit test and a functional/integration test?
+4. What is the purpose of a code style linting tool?
 
 #### Performance Questions:
 
 1. What tools would you use to find a performance bug in your code?
-1. What are some ways you may improve your website's scrolling performance?
-1. Explain the difference between layout, painting and compositing.
+2. What are some ways you may improve your website's scrolling performance?
+3. Explain the difference between layout, painting and compositing.
 
 #### Network Questions:
 
